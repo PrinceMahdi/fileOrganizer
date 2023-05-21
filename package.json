@@ -1,0 +1,18 @@
+{
+  "name": "downloadssorter",
+  "version": "1.0.0",
+  "description": "A script that automatically sorts the files in the Downloads folder based on their extensions",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
